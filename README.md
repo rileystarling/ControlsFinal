@@ -36,7 +36,7 @@ How to Run the Code and Generate Figures
     - All three simulations run 15 iterations each
     - Don't worry if it takes a long time !
     
-3. Alternative (faster)
+3. Alternative
    run MPC_simulator_final_standard.ipynnb, MPC_simulator_final_oneway.ipynb, MPC_simulator_final_T.ipynb
 
 References
