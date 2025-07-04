@@ -1,14 +1,14 @@
 # ControlsFinal
 
-===========================
 README - Pedestrian Traffic Project
 ===========================
 
 Author: Riley Starling
+
 UNI: rs4635
+
 Date: 14 May 2025
 
-===========================
 Project Overview
 ===========================
 
@@ -16,7 +16,6 @@ This project implements an adaptive traffic control system using Model Predictiv
 
 The simulation analyzes queue lengths, vehicle wait times, and MPC computation time across various intersection types.
 
-===========================
 How to Run the Code and Generate Figures
 ===========================
 
@@ -40,7 +39,6 @@ How to Run the Code and Generate Figures
 3. Alternative (faster)
    run MPC_simulator_final_standard.ipynnb, MPC_simulator_final_oneway.ipynb, MPC_simulator_final_T.ipynb
 
-===========================
 References
 ===========================
 
