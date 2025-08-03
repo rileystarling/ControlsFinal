@@ -1,4 +1,4 @@
-# ControlsFinal
+# Discrete Control Systems Final
 
 README - Pedestrian Traffic Project
 ===========================
