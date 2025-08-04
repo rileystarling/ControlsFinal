@@ -25,19 +25,21 @@ How to Run the Code and Generate Figures
    - UXsim (Open-Source, easy to download)
               
    
-2. Run In terminal:
+2. Run in terminal:
+   ```bash
    conda activate {replace_with_your_uxsim_env_name}
    python main.py
    
-   This will:
-    - Simulate the data
-    - Run MPC
-    - Generate and save relevant plots in the `figures/` folder
-    - All three simulations run 15 iterations each
-    - Don't worry if it takes a long time !
+3. Results:
+      - Simulate the data
+      - Run MPC
+      - Generate and save relevant plots in the `figures/` folder
+      - All three simulations run 15 iterations each
+      - Don't worry if it takes a long time !
     
-3. Alternative
-   run MPC_simulator_final_standard.ipynnb, MPC_simulator_final_oneway.ipynb, MPC_simulator_final_T.ipynb
+4. Alternative:
+   
+   run `.ipynb` files in `notebooks/` folder in Jupyter Notebooks (or another Jupyter-compatible environment)
 
 References
 ===========================
