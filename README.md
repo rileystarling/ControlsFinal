@@ -33,7 +33,7 @@ How to Run the Code and Generate Figures
 3. Results:
       - Simulate the data
       - Run MPC
-      - Generate and save relevant plots in the `figures/` folder
+      - Generate and save relevant plots in a `figures/` folder
       - All three simulations run 15 iterations each
       - Don't worry if it takes a long time !
     
