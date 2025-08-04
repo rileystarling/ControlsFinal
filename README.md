@@ -5,8 +5,6 @@ README - Pedestrian Traffic Project
 
 Author: Riley Starling
 
-UNI: rs4635
-
 Date: 14 May 2025
 
 Project Overview
